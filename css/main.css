@@ -1,0 +1,17 @@
+
+.title {
+font-size: 68px;
+font-family: 'Dancing Script', cursive;
+}
+.article {
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    }
+.body {
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 100px;
+}
